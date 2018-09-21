@@ -1,0 +1,1 @@
+reads.ec.filter.pass.asqg reads.ec.filter.pass.fa.asqg
