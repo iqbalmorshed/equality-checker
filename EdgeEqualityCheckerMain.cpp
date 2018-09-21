@@ -2,7 +2,7 @@
  * EdgeEqualityCheckerMain.cpp
  *
  *  Created on: Sep 11, 2018
- *      Author: Iqbal Morshed
+ *      Author:
  */
 
 #include <map>
