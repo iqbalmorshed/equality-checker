@@ -2,7 +2,9 @@
  * EdgeEqualityCheckerMain.cpp
  *
  *  Created on: Sep 11, 2018
- *      Author:
+ *      Author: Iqbal Morshed
+ *      Institution: UCF
+ *      Project: String graph construction
  */
 
 #include <map>
